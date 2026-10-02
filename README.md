@@ -12,8 +12,8 @@ What sets me apart? I combine data logic with a human-centered approach. My HR b
 
 ### Follow Me 
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:marina.a.orlenko@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/lma82)
-[![Linkdin](https://img.shields.io/badge/-Linkedin-69b5cc?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/marina-orlenko-8572261/)
+[![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/orlenko-m)
+[![Linkdin](https://img.shields.io/badge/-Linkedin-69b5cc?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/m-orlenko/)
 [![Youtube](https://img.shields.io/badge/-Youtube-69b5cc?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=C7LvGN34AjU/)
 
 ### Languages & Tools 
@@ -26,9 +26,10 @@ What sets me apart? I combine data logic with a human-centered approach. My HR b
 ![DataLens](https://img.shields.io/badge/-DataLens-69b5cc?style=for-the-badge&logo=DataLens)
 
 ### Certificates
-![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/CS50P_certificate.png)
+![Certificate](https://github.com/marinaorlenko/marinaorlenko/blob/Practicum/CS50P_certificate.png)
 [![Certificate](https://img.shields.io/badge/-CS50P_Verified_Certificate-69b5cc?style=for-the-badge&logo=CS50P_Verified_Certificate)](https://courses.edx.org/certificates/c34e2703fd0a4bfb90e58a7ac05f71ea?_gl=1*q5xvzf*_gcl_au*MTA3MzM0ODI2OS4xNzI5OTU4MjE0*_ga*MTExMzI2MjQyMS4xNzI5OTU4MjE0*_ga_D3KS4KMDT0*MTcyOTk1ODIxNC4xLjEuMTcyOTk2MDUwMC40Ni4wLjA./)
-![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_certificate.png)
-![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_modules_list.png)
-![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/СertificateSQL_Orlenko_2024-9312-004.png)
-![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Module_list_SQL_Orlenko_2024-9312-004.png)
+![Certificate](https://github.com/marinaorlenko/marinaorlenko/blob/Practicum/Yandex_Practicum_certificate.png)
+![Certificate](https://github.com/marinaorlenko/marinaorlenko/blob/Practicum/Yandex_Practicum_modules_list.png)
+![Certificate](https://github.com/marinaorlenko/marinaorlenko/blob/Practicum/СertificateSQL_Orlenko_2024-9312-004.png)
+![Certificate](https://github.com/marinaorlenko/marinaorlenko/blob/Practicum/Module_list_SQL_Orlenko_2024-9312-004.png)
+![Certificate](https://github.com/marinaorlenko/marinaorlenko/blob/Practicum/Yandex_Practicum_Diploma_Python_developer.png)
